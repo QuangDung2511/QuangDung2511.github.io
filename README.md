@@ -1,8 +1,8 @@
 # Computer Scientist
 
 ### Education
-High school graduate
-Currently studying Bachelor of Computer Science at University of Information Technology
+- High school graduate
+- Currently studying Bachelor of Computer Science at University of Information Technology
 
 ### Certification
 IELTS Academic - Overall 8.0
