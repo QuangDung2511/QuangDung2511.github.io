@@ -1,4 +1,4 @@
-# Computer Scientist
+# Computer Scientist (future tense)
 
 ### Education
 - High school graduate
